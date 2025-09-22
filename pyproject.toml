@@ -38,7 +38,7 @@ beautifulsoup4 = ">=4.12.3"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^24.8.0"
+black = ">=24.8,<26.0"
 
 [build-system]
 requires = ["poetry-core"]
